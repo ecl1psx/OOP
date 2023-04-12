@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerConsumer", "ProducerConsumer\ProducerConsumer.csproj", "{3279AD1C-441B-428A-A52C-3DFCC3C7F7BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossRoad", "CrossRoad\CrossRoad.csproj", "{0F5AD9B9-2DDE-4406-9579-F417A7B0AFCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{EFD36217-4BCC-4BF6-88EC-27B8AAB94164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMultiplier", "MatrixMultiplier\MatrixMultiplier.csproj", "{2247A3E7-EDB7-43C2-AEE4-B7BF38CFB620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3279AD1C-441B-428A-A52C-3DFCC3C7F7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3279AD1C-441B-428A-A52C-3DFCC3C7F7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3279AD1C-441B-428A-A52C-3DFCC3C7F7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3279AD1C-441B-428A-A52C-3DFCC3C7F7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F5AD9B9-2DDE-4406-9579-F417A7B0AFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F5AD9B9-2DDE-4406-9579-F417A7B0AFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F5AD9B9-2DDE-4406-9579-F417A7B0AFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F5AD9B9-2DDE-4406-9579-F417A7B0AFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD36217-4BCC-4BF6-88EC-27B8AAB94164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD36217-4BCC-4BF6-88EC-27B8AAB94164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD36217-4BCC-4BF6-88EC-27B8AAB94164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD36217-4BCC-4BF6-88EC-27B8AAB94164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2247A3E7-EDB7-43C2-AEE4-B7BF38CFB620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2247A3E7-EDB7-43C2-AEE4-B7BF38CFB620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2247A3E7-EDB7-43C2-AEE4-B7BF38CFB620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2247A3E7-EDB7-43C2-AEE4-B7BF38CFB620}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
